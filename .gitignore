@@ -1,0 +1,19 @@
+
+# Byte-compiled / cache / logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Python env
+.venv/
+venv/
+.env
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+
+# Large data dumps (keep your actual model if small)
+data/
